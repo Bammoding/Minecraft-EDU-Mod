@@ -1,2 +1,2 @@
 # Minecraft-EDU-Mod
-There are my minecraft edu mods
+this is my minecraft edu skin pack
