@@ -1,0 +1,79 @@
+{
+	"geometry": "skinpacks/skins.json",
+	"skins": [
+		{
+			"localization_name": "bam45",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "bam45.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "hero",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "hero.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "1",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "1.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "11111111111",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "11111111111.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "2",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "2.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "3",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "3.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "4",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "4.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "5",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "5.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "6",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "6.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "7",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "7.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "8",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "8.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "9",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "9.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "bridge",
+	"localization_name": "bridge"
+}

@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"bam45minecraft"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "ce67934c-8ac8-4749-beae-9578b43e30fb",
+		"version": [
+			2,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "89ac8168-a215-4c82-a6f3-1dcd9edfb74a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
